@@ -27,5 +27,8 @@ Frontend
 - Tailwind CSS for styling
 - Lucide React for icons
 - Service Worker for PWA functionality
+# 📦 Installation
+**Prerequisites**
 
-
+    Node.js 16+ and npm
+    Git
