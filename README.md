@@ -30,5 +30,5 @@ Frontend
 # 📦 Installation
 **Prerequisites**
 
-    Node.js 16+ and npm
-    Git
+ - Node.js 16+ and npm
+- Git
