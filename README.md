@@ -19,4 +19,13 @@ This application is a fully functional PWA that can be installed on devices:
 - **Installable**: Add to home screen on mobile devices
 - **App-like Experience**: Fullscreen mode on mobile
 - **Fast Loading**: Optimized caching strategies
+# 🛠️ Tech Stack
+Frontend
+- React 18 with Vite
+- React Router for navigation
+- Zustand for state management
+- Tailwind CSS for styling
+- Lucide React for icons
+- Service Worker for PWA functionality
+
 
