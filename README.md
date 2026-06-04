@@ -3,7 +3,7 @@
 A production-ready Progressive Web App (PWA) for managing multi-vendor inventory in Nepal. Built with React, Node.js, and Prisma.
 # 🚀 Features
 
-Multi-Vendor Support: Separate dashboards for admins and vendors
+- Multi-Vendor Support: Separate dashboards for admins and vendors
 Inventory Management: Track products, stock levels, buying/selling prices
 Real-Time Notifications: Low stock alerts and out-of-stock warnings
 Transaction Tracking: Complete history of sales and restocks
