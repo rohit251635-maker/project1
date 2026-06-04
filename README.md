@@ -11,3 +11,12 @@ A production-ready Progressive Web App (PWA) for managing multi-vendor inventory
 - **Responsive Design**: Optimized for mobile, tablet, and desktop
 - **Localized for Nepal**: Displays prices in Nepali Rupees (Rs.)
 - **Professional UI**: Modern, clean interface with smooth animations
+# 📱 Progressive Web App
+
+This application is a fully functional PWA that can be installed on devices:
+
+- **Offline Support**: Service worker caches assets for offline access
+- **Installable**: Add to home screen on mobile devices
+- **App-like Experience**: Fullscreen mode on mobile
+- **Fast Loading**: Optimized caching strategies
+
